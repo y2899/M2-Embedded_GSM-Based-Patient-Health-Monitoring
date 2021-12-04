@@ -4,3 +4,5 @@
 [![Codacy Badge](https://api.codiga.io/project/30322/status/svg)](https://app.codiga.io/public/project/30322/M2-Embedded_GSM-Based-Patient-Health-Monitoring/dashboard)
 
 [![Codacy Badge](https://api.codiga.io/project/30322/score/svg)](https://app.codiga.io/public/project/30322/M2-Embedded_GSM-Based-Patient-Health-Monitoring/dashboard)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/y2899/M2-Embedded_GSM-Based-Patient-Health-Monitoring/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/y2899/M2-Embedded_GSM-Based-Patient-Health-Monitoring/actions/workflows/c-cpp.yml)
